@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://example.org/post/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 24 Nov 2022 18:58:54 +0800</lastBuildDate><atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The First Blog!</title>
+      <link>http://example.org/post/first/</link>
+      <pubDate>Thu, 24 Nov 2022 18:58:54 +0800</pubDate>
+      
+      <guid>http://example.org/post/first/</guid>
+      <description>Member Information 苏甫-2022211334-2022211312
+倪少彪-2022211348-2022211312
+高暕集-2022211347-2022211312
+李昌昊-2022211340-2022211312
+Assay of Thoughts The pear flower has the moon
+Begonia contains rain
+Count the flowers before your door
+Listen to the rain outside the window
+Soft wind against the window blowing hair on the temples
+Got her thinking going
+That throbbing heart
+Still the same
+Summer Moon fever A field of fireflies
+Lone Star Points
+She danced in the fading clouds
+With the rose in my heart</description>
+    </item>
+    
+  </channel>
+</rss>
